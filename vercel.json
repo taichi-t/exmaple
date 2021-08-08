@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/auth",
-      "destination": "https://taichi-tsujioka.info/"
+      "destination": "https://taichi-tsujioka.info"
     }
   ]
 }
