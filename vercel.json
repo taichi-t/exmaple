@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/auth",
       "destination": "https://authenticator-neon.vercel.app/"
