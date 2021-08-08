@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <a href="/auth/">link to auth</a>
+      <a href="/auth">link to auth</a>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
