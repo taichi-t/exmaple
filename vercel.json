@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/auth",
-      "destination": "https://authenticator-neon.vercel.app/"
+      "destination": "https://taichi-tsujioka.info/"
     }
   ]
 }
